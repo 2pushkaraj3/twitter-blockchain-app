@@ -1,46 +1,46 @@
 export const news = [
-    {
-      category: 'Clever Programmer • LIVE',
-      title: 'CP is live on YouTube!',
-      image:
-        'https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/284832/settings_images/rLlCifhXRJiT0RoN2FjK_Logo_roundbackground_black.png',
-    },
-    {
-      category: 'Databases • Trending',
-      title:
-        'Sanity is giving you free Boosted plan, use --coupon cleverprogrammer',
-      image: 'https://avatars.githubusercontent.com/u/17177659?s=280&v=4',
-    },
-    {
-      category: 'Web3.0 • Trending',
-      title: 'Blockchain developers make over $150k',
-      image:
-        'https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/L424HUS65FGRVFPTYYPG24CIYI.jpg',
-    },
-    {
-      category: 'ReactJS • Trending',
-      title: 'Join Profit with React while spots last',
-      image:
-        'https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/site/18907/products/cIkAZXNyRZimRw4uqXVX_gDvYTtwQsC33KZqCtbpB_image.jpg',
-    },
-  ]
-  
-  export const whoToFollow = [
-    {
-      name: 'Rafeh Qazi',
-      handle: '@cleverqazi',
-      avatar:
-        'https://pbs.twimg.com/profile_images/1472075657920221184/JhAI3WGm_400x400.jpg',
-    },
-    {
-      name: 'David Rakosi',
-      handle: '@0xDavidRakosi',
-      avatar:
-        'https://pbs.twimg.com/profile_images/1282571486465855491/98xO6N0F_400x400.jpg',
-    },
-    {
-      name: 'Sanity.io',
-      handle: '@sanity_io',
-      avatar: 'https://avatars.githubusercontent.com/u/17177659?s=280&v=4',
-    },
-  ]
+  {
+    category: 'Clever Programmer • LIVE',
+    title: 'CP is live on YouTube!',
+    image:
+      'https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/284832/settings_images/rLlCifhXRJiT0RoN2FjK_Logo_roundbackground_black.png',
+  },
+  {
+    category: 'Databases • Trending',
+    title:
+      'Sanity is giving you free Boosted plan, use --coupon cleverprogrammer',
+    image: 'https://avatars.githubusercontent.com/u/17177659?s=280&v=4',
+  },
+  {
+    category: 'Web3.0 • Trending',
+    title: 'Blockchain developers make over $150k',
+    image:
+      'https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/L424HUS65FGRVFPTYYPG24CIYI.jpg',
+  },
+  {
+    category: 'ReactJS • Trending',
+    title: 'Join Profit with React while spots last',
+    image:
+      'https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/site/18907/products/cIkAZXNyRZimRw4uqXVX_gDvYTtwQsC33KZqCtbpB_image.jpg',
+  },
+]
+
+export const whoToFollow = [
+  {
+    name: 'Elon Musk',
+    handle: '@elonmusk',
+    avatar:
+      'data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgVFRUYGRgaGhgcGBgaGBoYGhgYGBgZGRgYGBkcIS4lHB4rHxoYJjgmKy8xNTU1GiQ7QDszPy40NTEBDAwMEA8QHhISHjQhJCQ0NDQ0MTQ0NDQxMTQxNDExNDQ0NDQ0MTQ0NDQ0NDQ0NDQ0ND8xND80NDQxNDE0NDQ/Mf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAEAAECAwUGBwj/xAA/EAABAgQCBwUGBQIGAwEAAAABAAIDBBEhMVEFEkFhcYHwBpGhsdETFCJSksEyQlPh8RVyByNUYoKTosLSFv/EABkBAAMBAQEAAAAAAAAAAAAAAAABAwQCBf/EACIRAQEAAgICAgMBAQAAAAAAAAABAhEDIRIxQVETIjIEQv/aAAwDAQACEQMRAD8A4hmj2fI3uCJhaMYfyN+kLShwEfAgLRMYz3JnwdDw/wBNn0j0R8LQcL9Jn0N9FpQISOhQ11qOd1js0DB/RZ9DfRP/AEGD+jD+hvot9rEzmJah7rnjoOD+jD+hvops0FB/RZ9DfRbZYpQ2Jah7rPl+z0ucYEP6G+iPZ2alv9NB/wCtnotKWatJjEdH2wf/AMzLf6aD/wBbPRVROzct/p4P/Wz0XT6qpitRNCuPj9npfZLwvoZ6IN+gYH6LPob6LrJloxWFpPSTIdKuFCbkbErqCbrFjaHgi/smfQ1DN0ZAdYQmV/sb6J9I6YYXDUfrcqY432bEDBnvjNDQ5HaMFHLk1VceO2DH6LgCxhsGfwNw7lQ7REM4Q2U/tHWCGiTWubm/VK9yufMOAq0m1KjvC4/J26vF0ofotmxjfpCpOjWfI36Qt2WGswVxGKd0FXmrEbbKwDo5nyN+kJv6ez5G/SFtvhKBhp6LdY39PZ8jfpCY6PZ8jfpC1/ZpGGjR+THEgz5G/SFISDPkb9IWn7MJixLQ8mLHkmA2Y36QiJeUYR+Bn0hXzQunllDl6W4+1fubPkZ9ISRNElDa2o1oTUZBahoQRkEL0o88ZCCLhhDwQi2BdBa0JiFNoTOCVCpwTsScFJgSODpZaTAs+WCMizDWNLnkADNc11BDiAKlcxpztNDh2Y4PdyLe9YXaTtG94PxarBWjQaF29xxpuXBzOkdat7ZKGXL8YrY8f26HSPaaJE2gDJhPisOZjveaknPO6z2PLj8PeK/dEw5eI7NQyzu+6tjhNdRQ91Lg8slH3knbcYFFxJJ+R47EJEk3CtQUTPGurhYtfOVvShGK0tHz4e3VO0Y+BWC+E4clXDeWm1slTpx26yFOGG+puCPD1WxAmmPFjfL7riDpFynKzeq7WqeHquscri4ywldu9qocFCSmxEbVXvCvMpfTPZcbpTROQnopEJkHeFCiuc1VFBg5sXTS6ebKaXWbnW4lqSdJZmhtQwjYIQkNGQSvTjzhsIIxgQcIoxhXRLQEi1OHJnOQashOwJFwTsKQHy4XJ9rdJlzyxv4Wi+8rp/a6rHOyBPcF5XpjSDnOsLkkk4qHNldaX4pLe2bPxCRR5JvhRU6P0O+K4BooNpOSJl5cvdcniu00FLhop1zWDPkuM6bMMd3dUaP7PsYAKCudFtS2iGgbEa1iNgMCx3K29tUkk6Af0lhFKBUx+zzHbPBbwh3siYUJUwc7cO/sYwg0ssaZ7EuxF+K9UMNQMAFaccqnZK8SneysRtSGmlcuu9Y7pVzDQkihuMF9Dy8ky4cLFcj/AIg9lw6EYsJvxsFbW1mYkW27Vox9bRyklcHoabaKMAqSb/Zb7guF0XEIitN7G4G21LLuXPFKhW42XknaFFMBU+0Ug9VSJ4VTmqbnqpz0AHNtuoS6lMvUYCzcy/CtSTVSWdoa7YyIhR1gtmVayaXoysGnTwo6KZHXNw5zer2Tq7cuhEwmMwsIzu9RM9vXOzbpmE7ZjeuedOqIn96ZuojTI1HcCvOpmX1n1pf1XTNnatIGRss4QiCLLP8A6PS3BFMhJ0FSP255rpNE02oGWgk2A6zK1JOHq44ryeS9vQwx6aLlZAfTiqWOU2jJSkVo6HFWhDiWWdBhI5kKy0YOMtCA6qctVbG0UyVoxxcXo8N1Cpxzrgg7RdDOcap2lVnTjKPIdO6AMCZdqj4Cat3A3p1kr3RKNHBdb22l6+zftrQ99R3Lhp+OAS3hyKrh72zcnpJ0ZN7ws58dVe8K22fTWMwqnR1nCOkYyNjxExoivlysx0S60JTBZ+Zfj6XpKSSzrbY/vCk2ZWcXJNct22TTWbNKwTu9ZjSpLryHjGi6eTCd3rNcoByPIeMahnFX75vQBcpyjQ57GnAubUZitwublqbOYbunQ6DjF7zfAc75Lbe4a2Fh40TS2lfbN1NUM1bMFBQAUsOVLIa4eGHO+/gsPJzebd+C8V1W5JMoyuatD7qEM0ACk4AXWDL20Y+hkJwFC5wA3lFe9wW0q4HmuVmJnWdQEncEVL6NDxcDvuusI6uLqYU9Dd+B4JyRzY1l5/F7PvYS5hIG4rV0VpM4ONSLLRjrG9uPHfp2LXAhTa1ZctHrtVom9Ukk2C0TVm3FxrS1ARghntoVgzHbFjHauq4iuIWhIadhzFm2PnTZ1kupZXGUsY/bB/wMH+8Lyyfj1iPO8r0nt0/VhNfWha+o46p+9F5UTW6tj6ZeT2k56HfFupvKEebp2pyCBFUxEQwUwUbFi9r7rZkTZYLDdb0ibKXKpiJqkkkoO9uYcUmKLk7FtQEtU1W1TCZIxCqqqcQqgOSCZKv0Y4CKyvzhClSl36r2OOAc0ngDVc5dyu8OspXeRobYMEO1auq5wvShNr8lbIH2mo8fmqOYolptocz4cP2WhIyzYbIYGxpJ/ucakrysL3Xr803jKIjMITPgPcDSlN1Wn0UgC6p2DhcqUOM6tjTzPM4eallNUsO2LMwIrQdVoYfnNDbhTHfZQZKzYFWxGvtY1eRhxXWCCXi7iKjYA7v1gShxoAj4mOpwJb/4iyrxzs65wTU8B8cMUGD4ZOtc/LW43EIOBHeYvxCjq39V2T9HOaKuiHm6qypmTAfrVJJ2m5VObKahceLpNGwxqaxN6LH0hpNrXkE2FrXqVsaLB9ny8VzelpKpvCLm1NwXc6gKmF3gVn7D5WZhPFC08S2o7hU7FKJLMqHMoDWxba99o6xWI3QEvF+L2j2OpbVcWkLZ0PIOhuLS572WIfQ0rgdY578qKuPpLL5Znb9zhLMBN637wPuvNQV6B/ihNj/LhjaKm+RXnwWnH08/k/pFxQrzdEvKEdiilFjVMKLQraINFmK39H4LAaLrekDZS5HWI1JR1k6g705ZykxRcE7CtqAhqmoNViZKYqoRERDlKnDVTJFMh09I7OPD5dkQ/Eaajm7C5tBrHlQrfkGDV1crVNrfZec9l9Oewqx/4HGoPyuw9F3WjJxsRpc01FT4LzOTC45266b8c/LCdrYsQNqBvv1yUmMAF8cUFNRPiqdnQQ4mzt3V64LLl+1aMZp1Eq8WWgyIFgSExaqujaTY21Vo4tYzdGWNq7S00wC+JwG1ZgiVFKEFATs6dcPIq3buQj+0/wAWo6HqivwvtQ8clPLeeW4rMfGR2+h2fDiiIsMB5FKg34FZehJ/WAqBbELQfMMeA9jquBIcBfffJa+GaxZ+SfsizRzDcAcdqPMIsbUEEcKHnSyFl5kVyzR7otQW42VYnlK8a7fTftJt4GDA1vewO/8AYrmlqdpYmvNxiMPaOA4N+H7LOeFonp5+f9KIiFOKLehHG6ZRexWUVTCraoMwF1tyBssOt1tSGCjy+nWItJPVMoO9ucITMCk4JNC2s65imFFqkmEIioIV71TRIIEKJCsolRB7MwLuOzb6SwvbXd5hcS0LqdBxv8rVyca8wFD/AET9FuCzzjbiP64pocLWNMz14Khj6GpR0q8B9M6HmvJ129T4ER4GqCKmjbHjSvcsuG8E0rzXU6ak9eGdR2qXAXGNaLzSYk5iG+jnucyo+IbBtqAtNwl62UysdqyS1m4+KCiaBLjsAyN1RoaSfEbDLJg/FrawrWzTStMsO9bELRU21gfrh96apxpWgN1zhx6vcdfln2hJymo03NrWy4I+TZqA6th1sUXmZY4s9i1xGrXVd82VVks7WwnPMItc14cWkapcNYEg0I3rZJMZqRO5d+41oU9SJqn+QjpvSQYx76/ha53cCVkTMDXdD1cS4mo+UNvXmWoDtlE9lLPFbvLWDmanwB71xhvy045cp47edmIXEuOJJJ4k1KclVMKlrLa8u1F6Debop5QrhdBxawq0FVMCsokZtq29HmyxQFsSBsp8np1iOSUdZJZ9O2OYKTYC1vdlNsqt8jL5MxsEqYlytmHJohkjuT0Xk5x0qVX7oV1X9P3Jv6fuRoeTlvdCm92K6n3DcqYkq1v4iBxRqHK59kqVtaLli1j3CtiO41r5KE/NMgtFPiefw5caK7sw972xojiSKsb/AMhUmg2C4WbnynjY0cEvlKLhPqAR/CKLjY1QExD1DrNwOIy4IuWjNI6xXl5Y/Menjl8Osl4+vDHVVk6Ql6n4bHEK7RUeraDPuRz5UuCLbTxy1dubZDAOs4OY8YPh1GOIOrnZbklpWZDGtYWPAwDq6xAzO04KxsuQLtr1mpQYH+37rTxbgzuGXuBZ3S02SWuDIZOGq2rgKUpUk8cFLQmhmQ2l+oNd1ak3N8brWZKtsdWiKc4BteXNaLekcrjP5mgjIQZU/mI7gvOu3E77WKIbTVsOtd7zj3C3Gq6/TWkCxpp+N2G7fwXDPlSSSbmtV3xYfLL/AKOX/ljCAl7Fa/uygZZX0ybY7oKpdAutt0uq/dktHtmsgKfsVqCXSMBGi2yfZLQlG0UnwFZDZRT5PSmNWJKNUlBVssl1eyVRjIaJZCW6MVDwZZFMlUVBhpTE4yHiQTkMU70JEBK7lRG1G4m6zp7TtbCwwoMTzXPTuk3HbfZlj5qWXJJ6Ux4/traS0q1oIZc05LAiztK3LnEgVy4ZIF8ckklDkmtd6nc7VZjIbSDy57nnZYLpux8YewLM3k88Fycy7HvWn2am9Q6u/wA1Lmm8FeG6yddEbXFZ74ZaSW8x1gtGtRXNVOasEum7xCyukXMcDW23NdjovSzX88Vxk1LWtj4KqWjvYaXG47eB2rrW+4U69vTmOFbIlpauIku0GrZwIOK0mdo2dAq2GWiyjpHNpjZZGldJBrHuaLQ2ucf+IrihIU5FjmjG6rNr3Wr/AGjmqe1cNsKQjtbtbq12kuNL+K04zaOd1GFCnXPY2Ifzi42AnJO0sdUH4TWm4rGknlsFoGNuSviTVxU0NK7lr6kjFZu9tJ0rRVOgJ5KdoPscKoxsRjsx1iUb2ncfpmPl0my603QMrpNhoc9s73dRMBaLmKBYjRsx8FDPZRa72LLmlHknSmHtTrJ1VVJZ9Lbdkwqb5trcSuanNM4gDgPXNY0Wae43ceGzmPtZacuT6Qxw+3WzmmzSjTTgsOYnTWteO3His5zy25Pr11VDxYxNhbj6cfNTuVqkxkFRZknb1vQsR5/dQac+X8c00Z3RzXLogoPASh9bO9J5smA0dNLRtR1U8RDuBT1uaKXV27nRU8HtAqtIledyc05hqDyXaaE0i19A5Y+Xgsu43cXNLNUarIEsH/ui52VtrNQUrELTRR8LL2v1WlL6Ch2qDTjTwWtLaNhMpRg3F3xU70PLzIojIUXatmGMiOQ9hysuJ/xF0jVrJcH8Tg53BpsDzC6Kf0i2GwvcaABeXTU26PGdFdnQDIK896QzuoNYSGAdFUTNzwFO8gKev4KjWwOer5lWt6ZYshx3C1bd+LkdA0h9vWlNizQM93dUnHkoGuXVB6rjdN0EKexvzvfOvoihO7q+nJct7YjaeqDyBV8GbOw06OwpzIrNupERp2pisCHNEG+/rvyRELSAbttku9uLg0IhssmbRh0gx2YQc2FPk9HjLKESUKpLOsGc/I9c0g8dY8a9ygXnD+eNe7vVYd67v32hVkcLcb/sN18TfzVTm5V5W8e7uUw+vV+NNmwpnnZ59xRo9owwevXbimiNOzroq2Ga9eWWKTyd/fzSmItUtadvXLmEog4qeBt6+PJO9oOXmbVHojQ2EiN3IV5uin0qh4jU4KjVXS005jg5pw8VRRPRdUpdPStEafZHZq1o8D8Jx4tO0IR8yQ64XDQWkGocWkGxaaEc1tQNMPpR/wAeTqAO5nalcMbO1seWx1EtPmoGa2nTWqwuNgLlcFB0wxrqlrqZWKlPaeEUgOD2saLMaaVdsLiCuJjcfhS8kvynp3SL4hvUN/K37nes6Aygp0UMI+s69aflBJNK7zjdXiJsAPLv+y7xlndQzy8r0Jc61tm61aA3CYuvbr4sih9/7HAqxzv327c13a4i1hty4bHKBsaeVsu9Rhv65O2Kb+rXGOxchQ51ccsT1vTa2fr1gmd1sy9FDLDyy9UBc2KRh0cMDvKIERpscvuc9wQLj1jvx5hWQ3i3HjauR3A96JQLqRY4Z08CiYDyLYjaNh8EE5+eHR7se5Ox5BG3fjWueK6gH6rPlPj6JIf2+7z/APlJPr6HbJB7vDqic8+to8O9VwXX34fcUVr92HjTflj4KYJo/ivnyqOSmTv3W7vVVNPhs2cONynLseshzQFsM159XzxCRocvTqqizD79bwnqd/gEQI9dd6nj1QYA+qbrw38E7cdh8cwuQoiN2/fj6IWKEe7P7cPVDPZXHbu6zT0AisY0qRZTrgpsHVeC6BNww81ZrpiOuRT9bN6Ai94UGv1q0IFL8bgUHf4Jnwz1wCb2FEBaxldv3V3XmhmNp1TNGB1ftgU6E9/3rmmc/wA+BxVbjW/qOsVEk9X2pBc123duP5SiCLd/L0QWzZhluRLH18fvzRApe7rHNVudTb10Eni/XmouSBw7hztl6eKm2/Vd3qqW9bcvVWS+N/TZ+6IFsR1T1u/bxShxNleHXeqobq1PXWKi09ddWT2BXtdw7kkNVJPYUOsVew268T3oeK8Hb6pMfmesVyF5PXWO1M99x9+rKtsQDb19kweNYHZxRfQGAkfbZ1iotv1xVYijMd6cRWjb9k/gLndd52bcVJrusNoKodGb8w4d2J71FkVuY58P2XOj2vc09Hh6KsdVPBRfGbWxb1W6j7QfMmRndeCQy62KLogO1RLxn1dATr1TipA8PHMKAeM/FR9oM/HgmE+vBSHdyVYeM/Hin9oM/FAWDrrmpNPDyyVIeM/Hgl7UZ9VCAv4+uSau4eWWarEQZ9WT+1bn1ZIEXHrgroL8/HickK94zHVUmRAP547kBfHprWqoV6wySjRWnaOap19/3QEiesM/RWMdYncduf8ACo1xn11VIvFCLXQFjDY8Oh+6TH0xVYfaijrIAvW6qEyH195SQFIThJJdAuvNIpJLmg4SSST+AbrzTJJJAgn6806SYRcnH3SSSBBIpJJgikEkkAuvNLrzTpICKcpJJg4UUkkA+xIpJIBFL90kkgbryUikkgGSSSQH/9k=',
+  },
+  {
+    name: 'David Rakosi',
+    handle: '@0xDavidRakosi',
+    avatar:
+      'https://pbs.twimg.com/profile_images/1282571486465855491/98xO6N0F_400x400.jpg',
+  },
+  {
+    name: 'Sanity.io',
+    handle: '@sanity_io',
+    avatar: 'https://avatars.githubusercontent.com/u/17177659?s=280&v=4',
+  },
+]

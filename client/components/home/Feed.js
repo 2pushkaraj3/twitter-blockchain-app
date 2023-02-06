@@ -15,6 +15,7 @@ const style = {
         text: 'It’s is so gratifying and wonderful!',
         isProfileImageNft: false,
         timestamp: '2020-02-04T10:48:07.000z',
+        
     },
     {
         displayName: 'Devashish',
@@ -23,6 +24,7 @@ const style = {
         text: 'Making a tech twitter gc, where people can network and build connections. Drop 🥳 to join',
         isProfileImageNft: false,
         timestamp: '2023-02-04T10:48:07.000z',
+        
     },
     {
         displayName: 'Rushikesh',
@@ -76,6 +78,7 @@ function Feed(){
                 text={tweet.text}
                 isProfileImageNft={tweet.isProfileImageNft}
                 timestamp={tweet.timestamp}
+               
             />
             ))}
         </div>
