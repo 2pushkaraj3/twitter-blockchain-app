@@ -10,7 +10,7 @@ const style = {
   const tweets = [
     {
         displayName: 'Pushkaraj',
-        userName : '0x22dF...5xf2df',
+        userName : '0x22dF...5xf2df',  
         avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPX_87fZW3gwcG5mV1hOsxHhH8BbIgPuUw7Q&usqp=CAU',
         text: 'It’s is so gratifying and wonderful!',
         isProfileImageNft: false,
